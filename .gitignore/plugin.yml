@@ -1,0 +1,9 @@
+name: Cuttree
+main: mc.cuttree.Main
+author: CushyPro
+description: all plugin in one
+version: 1.11
+commands:
+  ct:
+    description: help all command
+    permission: ct.help
